@@ -3,10 +3,28 @@
   
     
     <entry>
+      <title>b1002</title>
+      <link href="/2018/04/29/b1002/"/>
+      <url>/2018/04/29/b1002/</url>
+      <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">//todo</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>b1001</title>
+      <link href="/2018/04/29/b1001/"/>
+      <url>/2018/04/29/b1001/</url>
+      <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">#include &lt;cstdio&gt;</span><br><span class="line">int main()&#123;</span><br><span class="line">int n, step = 0;</span><br><span class="line">scanf(&quot;%d&quot;,&amp;n);</span><br><span class="line">while(n!=1)&#123;</span><br><span class="line">if(n%2==0)n=n/2;</span><br><span class="line">else n=(3*n+1)</span><br><span class="line">step++;</span><br><span class="line">&#125;</span><br><span class="line">printf(&quot;%d&quot;,step);</span><br><span class="line">return 0;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>my todo list</title>
       <link href="/2018/04/22/list/"/>
       <url>/2018/04/22/list/</url>
-      <content type="html"><![CDATA[<h2 id="my-todo-list"><a href="#my-todo-list" class="headerlink" title="my todo list"></a>my todo list</h2><ul><li>learn guitar</li><li>calligraphy</li><li>to go to California</li><li>have a cat and a dog</li><li>have the ability to take care of family</li><li>have a girlfriend (maybe)</li><li>first of all , become a graduate student</li></ul>]]></content>
+      <content type="html"><![CDATA[<h2 id="my-todo-list"><a href="#my-todo-list" class="headerlink" title="my todo list"></a>my todo list</h2><ul><li><p>Neural Networks and Deep Learning</p></li><li><p>learn guitar</p></li><li><p>calligraphy</p></li><li><p>to go to California</p></li><li><p>have a cat and a dog</p></li><li><p>have the ability to take care of family</p></li><li><p>have a girlfriend (maybe)</p></li><li><p>first of all , become a graduate student</p></li></ul>]]></content>
       
       
         <tags>
@@ -63,7 +81,7 @@
       <title>my book list</title>
       <link href="/2018/04/19/book/"/>
       <url>/2018/04/19/book/</url>
-      <content type="html"><![CDATA[<h2 id="my-book-list"><a href="#my-book-list" class="headerlink" title="my book list"></a>my book list</h2><ul><li>王道全家桶：）</li><li>算法笔记(pat)</li></ul>]]></content>
+      <content type="html"><![CDATA[<h2 id="my-book-list"><a href="#my-book-list" class="headerlink" title="my book list"></a>my book list</h2><ul><li>王道全家桶：）</li><li>算法笔记(pat)</li><li>神经网络与机器学习 Simon Haykin</li><li>计算机组成结构化方法</li></ul>]]></content>
       
       
         <tags>
